@@ -1,4 +1,5 @@
 baseURL: "https://holicjack.github.io/DynamicsTantei/"
+paginate: 5
 languageCode: en
 title: 壊れない欠片
 theme: ananke
