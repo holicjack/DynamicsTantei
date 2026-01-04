@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>记事 on 壊れない欠片</title>
-    <link>http://localhost:1313/tags/%E8%AE%B0%E4%BA%8B/</link>
+    <link>http://localhost:1313/DynamicsTantei/tags/%E8%AE%B0%E4%BA%8B/</link>
     <description>Recent content in 记事 on 壊れない欠片</description>
     <generator>Hugo -- 0.154.2</generator>
     <language>en</language>
     <lastBuildDate>Sun, 02 Apr 2023 08:39:30 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/%E8%AE%B0%E4%BA%8B/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/DynamicsTantei/tags/%E8%AE%B0%E4%BA%8B/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>社畜化</title>
-      <link>http://localhost:1313/2023/04/02/%E7%A4%BE%E7%95%9C%E5%8C%96/</link>
+      <link>http://localhost:1313/DynamicsTantei/2023/04/02/%E7%A4%BE%E7%95%9C%E5%8C%96/</link>
       <pubDate>Sun, 02 Apr 2023 08:39:30 +0000</pubDate>
        <guid isPermaLink="false">https://dynamicstantei.wordpress.com/?p=117</guid> 
       <description>&lt;p&gt;写作欲经常是不期而至的。不知道究竟是因为最近丢了自行车开始走路上下班，还是因为每天淅淅沥沥下小雨缺不见暖和的天气，精神又处在一种跳脱的状态。如果来比喻的话可能有点像被拔出来的断路器。&lt;/p&gt;
@@ -25,7 +25,7 @@
     </item>
     <item>
       <title>杂记其一（2022.5）</title>
-      <link>http://localhost:1313/2022/05/19/%E6%9D%82%E8%AE%B0%E5%85%B6%E4%B8%80%EF%BC%882022-5%EF%BC%89/</link>
+      <link>http://localhost:1313/DynamicsTantei/2022/05/19/%E6%9D%82%E8%AE%B0%E5%85%B6%E4%B8%80%EF%BC%882022-5%EF%BC%89/</link>
       <pubDate>Thu, 19 May 2022 20:07:02 +0000</pubDate>
        <guid isPermaLink="false">https://dynamicstantei.wordpress.com/?p=27</guid> 
       <description>&lt;p&gt;天气逐渐暖和了，又一个学期开始。上了两周课之后逐渐感觉到了身体和精力的极限，即什么叫“力不从心”。&lt;/p&gt;
