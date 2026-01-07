@@ -27,7 +27,9 @@
 	{{- $txt = $txt | plainify | htmlUnescape | replaceRE "\\s+" " " | strings.TrimSpace -}}
 	{{- $txt = $txt | truncate 200 -}}
 
-	{{- if gt (len $txt) 0 -}}
+	{{- $isList := eq (.Scratch.Get "stack_render") "list" -}}
+
+        {{- if and $isList (gt (len $txt) 0) -}}	
 	<h3 class="article-subtitle">
     	  {{ $txt }}
 	</h3>

@@ -2,3 +2,10 @@
 # keys
 github_key
 github_key.pub
+
+# Hugo build output
+public/
+resources/
+
+# macOS
+.DS_Store
