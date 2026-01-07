@@ -86,15 +86,9 @@ enabled = true
 ## Comments
 [comments]
 enabled = true
-provider = "disqus"
+provider = "giscus"
 
 [comments.disqusjs]
-shortname = ""
-apiUrl = ""
-apiKey = ""
-admin = ""
-adminLabel = ""
-
 [comments.utterances]
 repo = ""
 issueTerm = "pathname"
@@ -137,15 +131,19 @@ serverName = "cactus.chat"
 siteName = ""
 
 [comments.giscus]
-repo = ""
-repoID = ""
-category = ""
-categoryID = ""
-mapping = ""
+repo = "kowarenai04/DynamicsTantei"
+repoID = "R_kgDOQzcO5Q"
+category = "Comments"
+categoryID = "DIC_kwDOQzcO5c4C0rUZ"
+mapping = "pathname"
 lightTheme = ""
 darkTheme = ""
+theme = "preferred_color_scheme"
 reactionsEnabled = 1
 emitMetadata = 0
+strict = 0
+inputPosition = "top"
+lang = "zh-CN"
 
 [comments.gitalk]
 owner = ""
