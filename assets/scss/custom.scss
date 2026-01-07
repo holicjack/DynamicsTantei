@@ -1,0 +1,74 @@
+/* Global BG */
+body {
+  background-color:#cae2fa;
+}
+.main-container {
+  background-color: transparent;
+}
+
+.article-category a,
+.article-tags a {
+  background-color: #05a6fc !important;
+  color: #ffffff !important;
+}
+
+/* ==========================
+   Dark mode: keep header light
+   ========================== */
+
+html[data-scheme="dark"] header {
+  color: #111 !important;
+}
+
+html[data-scheme="dark"] header,
+html[data-scheme="dark"] header a,
+html[data-scheme="dark"] header .site-name,
+html[data-scheme="dark"] header .site-description,
+html[data-scheme="dark"] header svg {
+  color: #111 !important;
+  fill: #111 !important;
+}
+
+/* Sidebar widgets: category/tag pills stay light */
+html[data-scheme="dark"] .sidebar .widget .article-category a,
+html[data-scheme="dark"] .sidebar .widget .tag-cloud a,
+html[data-scheme="dark"] .sidebar .widget a[href*="/tags/"],
+html[data-scheme="dark"] .sidebar .widget a[href*="/categories/"] {
+  background: #fff !important;
+  color: #111 !important;
+  border-color: rgba(0, 0, 0, 0.12) !important;
+  box-shadow: none !important;
+
+html[data-scheme="dark"] header .menu a,
+html[data-scheme="dark"] header .menu svg {
+  color: #111 !important;
+  fill: #111 !important;
+}
+
+/* Dark mode: widget titles in header stay dark */
+html[data-scheme="dark"] header .widget-title,
+html[data-scheme="dark"] header .widget__title,
+html[data-scheme="dark"] header .widget-title span,
+html[data-scheme="dark"] header .widget__title span,
+html[data-scheme="dark"] header .widget-title svg,
+html[data-scheme="dark"] header .widget__title svg,
+html[data-scheme="dark"] header h1,
+html[data-scheme="dark"] header h2,
+html[data-scheme="dark"] header h3 {
+  color: #111 !important;
+  fill: #111 !important;
+}}
+
+/* =========================
+   Hide dark mode toggle
+   ========================= */
+
+header .theme-toggle,
+header .dark-mode-toggle,
+header button[aria-label*="dark"],
+header button[aria-label*="Dark"],
+header button[title*="暗色"],
+header button[title*="Dark"],
+header .menu button {
+  display: none !important;
+}
