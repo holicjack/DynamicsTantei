@@ -2,19 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/DynamicsTantei/posts/20260130-buffer/</loc>
-    <lastmod>2026-01-30T22:15:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/DynamicsTantei/categories/</loc>
-    <lastmod>2026-01-30T22:15:00+00:00</lastmod>
+    <lastmod>2026-02-20T22:00:30+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/DynamicsTantei/posts/</loc>
-    <lastmod>2026-01-30T22:15:00+00:00</lastmod>
+    <lastmod>2026-02-20T22:00:30+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/DynamicsTantei/tags/queenofwand/</loc>
+    <lastmod>2026-02-20T22:00:30+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/DynamicsTantei/tags/revo/</loc>
+    <lastmod>2026-02-20T22:00:30+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/DynamicsTantei/tags/stellatram/</loc>
+    <lastmod>2026-02-20T22:00:30+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/DynamicsTantei/tags/</loc>
-    <lastmod>2026-01-30T22:15:00+00:00</lastmod>
+    <lastmod>2026-02-20T22:00:30+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/DynamicsTantei/tags/%E3%83%87%E3%83%B3%E3%82%AB%E3%83%AC/</loc>
+    <lastmod>2026-02-20T22:00:30+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/DynamicsTantei/categories/%E5%A4%A7%E4%BA%8B%E8%AE%B0/</loc>
+    <lastmod>2026-02-20T22:00:30+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/DynamicsTantei/</loc>
+    <lastmod>2026-02-20T22:00:30+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/DynamicsTantei/categories/%E5%9B%9E%E5%BF%86/</loc>
+    <lastmod>2026-02-20T22:00:30+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/DynamicsTantei/tags/%E8%AE%B0%E5%BD%95/</loc>
+    <lastmod>2026-02-20T22:00:30+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/DynamicsTantei/tags/%E9%9C%9C%E6%9C%88%E3%81%AF%E3%82%8B%E3%81%8B/</loc>
+    <lastmod>2026-02-20T22:00:30+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/DynamicsTantei/tags/%E5%A6%96%E7%B2%BE%E5%B8%9D%E5%9C%8B/</loc>
+    <lastmod>2026-02-20T22:00:30+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/DynamicsTantei/posts/20260220-music-box/</loc>
+    <lastmod>2026-02-20T22:00:30+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/DynamicsTantei/tags/%E4%B8%AD%E6%83%A0%E5%85%89%E5%9F%8E/</loc>
+    <lastmod>2026-02-20T22:00:30+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/DynamicsTantei/posts/20260130-buffer/</loc>
     <lastmod>2026-01-30T22:15:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/DynamicsTantei/tags/%E5%A4%B9%E5%8F%99%E5%A4%B9%E8%AE%AE/</loc>
@@ -29,9 +62,6 @@
     <loc>http://localhost:1313/DynamicsTantei/tags/%E5%BF%83%E6%83%85/</loc>
     <lastmod>2026-01-30T22:15:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/DynamicsTantei/tags/%E8%AE%B0%E5%BD%95/</loc>
-    <lastmod>2026-01-23T22:00:30+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/DynamicsTantei/posts/20260123-week-diary/</loc>
     <lastmod>2026-01-23T22:00:30+00:00</lastmod>
   </url><url>
@@ -45,9 +75,6 @@
     <lastmod>2026-01-13T11:00:00+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/DynamicsTantei/posts/20260112-moving-new/</loc>
-    <lastmod>2026-01-12T09:39:30+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/DynamicsTantei/categories/%E5%A4%A7%E4%BA%8B%E8%AE%B0/</loc>
     <lastmod>2026-01-12T09:39:30+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/DynamicsTantei/page/guestbook/</loc>
@@ -65,9 +92,6 @@
     <loc>http://localhost:1313/DynamicsTantei/categories/%E6%97%85%E8%A1%8C/</loc>
     <lastmod>2025-03-09T09:22:30+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/DynamicsTantei/tags/%E9%9C%9C%E6%9C%88%E3%81%AF%E3%82%8B%E3%81%8B/</loc>
-    <lastmod>2025-03-09T09:22:30+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/DynamicsTantei/posts/flash-of-qualia-20250102/</loc>
     <lastmod>2025-01-02T03:17:34+00:00</lastmod>
   </url><url>
@@ -75,9 +99,6 @@
     <lastmod>2024-01-10T23:30:01+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/DynamicsTantei/posts/pet-memories-20231204/</loc>
-    <lastmod>2023-12-04T20:33:54+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/DynamicsTantei/categories/%E5%9B%9E%E5%BF%86/</loc>
     <lastmod>2023-12-04T20:33:54+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/DynamicsTantei/posts/bug-of-society-20230402/</loc>
@@ -108,9 +129,6 @@
     <lastmod>2022-08-24T09:45:01+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/DynamicsTantei/posts/paradise-map-20220706/</loc>
-    <lastmod>2022-07-06T15:14:36+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/DynamicsTantei/tags/%E4%B8%AD%E6%83%A0%E5%85%89%E5%9F%8E/</loc>
     <lastmod>2022-07-06T15:14:36+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/DynamicsTantei/posts/tsuisou-no-mado-20220622/</loc>
